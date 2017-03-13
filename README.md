@@ -1,4 +1,4 @@
 # practice
 Practice coding
 
-e.g. UVa and leetcode and gitting.
+e.g. UVa and leetcode and GIT.
