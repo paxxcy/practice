@@ -13,6 +13,7 @@ Answered questions (200-299):
 Answered questions (300-399):
 * 344. Reverse String [C](Q344.c)
 * 345. Reverse Vowels of a String [C](Q345.c)
+* 382. Linked List Random Node [C](Q382.c)
 * 398. Random Pick Index [C](Q398.c)
 
 Answered questions (400-499):
