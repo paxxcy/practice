@@ -13,7 +13,8 @@ Answered questions (200-299):
 Answered questions (300-399):
 * 344. Reverse String [C](c344.c)
 * 345. Reverse Vowels of a String [C](c345.c)
+* 398. Random Pick Index [C](c398.c)
 
 Answered questions (400-499):
-445. Add Two Numbers II [C](c445.c)
+* 445. Add Two Numbers II [C](c445.c)
 * 451. Sort Characters By Frequency [C](c451.c)
